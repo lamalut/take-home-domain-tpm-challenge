@@ -1,1 +1,0 @@
-# take-home-domain-tpm-challenge
