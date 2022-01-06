@@ -16,7 +16,7 @@ This is meant to be an assignment that you spend approximately three hours of de
 
 Our team understands customer scenarios, trends and friction between customer vision and Microsoft products. We communicate these regularly both in writing and verbally.
 
-Provide a brief writeup describing either a customer scenario, market trend or point of friction with Microsoft Business Applications (Dynamics 365, Power Platform) or overall low code/no code for a professional developer persona.
+Provide a brief writeup describing either a customer scenario, market trend or point of friction with Microsoft Business Applications or competitor product (Dynamics 365, Power Platform), or  overall low code/no code customer scenario for a professional developer persona.
 
 - Write a minimum of one paragraph and a maximum of one page.
 - Include a one-sentence catchy executive summary sentence.
