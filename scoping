@@ -1,0 +1,22 @@
+# Power Platform Take Home Engineering Challenge
+We are a practical team at Microsoft and this extends to the way that we work with you to find out if this team is a great fit for you. We want you to come away with a great understanding of the work that we actually do day to day and what it is like to work with us.
+
+So instead of asking you to provide examples on the spot during interview, which is not a thing we often do, we instead discuss how you approached a scoping.
+
+# Guidelines
+This is meant to be an assignment that you spend approximately three hours of dedicated, focused work. Do not feel like you need to overengineer the write-up with dozens of hours to impress us. Be biased toward quality over quantity.
+
+
+# The Problem
+Helping frontline workers complete their day to day tasks is a common business scenario. The City of Santa Monica publishes their Building Permit Inspection Schedule as open data. Building inspectors need to travel to various locations throughout the day to inspect building that are under construction. Building inspector supervisors need to ensure timely delivery of services and analyze overall trends. Please build something that helps the Building and Safety Division manage their requests for building permit inspections.
+
+# The Assignment
+This is a freeform assignment. Feel free to tackle this problem in a way that demonstrates your expertise of an area -- or takes you out of your comfort zone. For example, you could build ...
+
+a UI that helps building inspectors complete their assigned inspections
+an integration with a collaboration app like teams or outlook
+a virtual agent that helps coordinate the work
+something else you think would be valuable for the building inspectors
+You can connect your solution directly to the API or import your data to a database (to simulate this as an internal application).
+
+Good luck! Please send a link to your solution on Github back to us at least 12 hours before your interview so we can review it before we speak.
